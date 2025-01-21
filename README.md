@@ -27,7 +27,7 @@ Este curso aborda a criação de dashboards interativos utilizando **Streamlit**
 
 ## Visualizar o Projeto
 
-[Visualizar o proje](https://ikekenard-intro-dash.streamlit.app/)
+[Visualizar o projeto](https://ikekenard-intro-dash.streamlit.app/)
 
 - Exibição de dados tabulares
 - Geração de gráficos com Plotly
